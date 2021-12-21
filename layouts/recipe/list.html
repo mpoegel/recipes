@@ -1,0 +1,18 @@
+<link href="/style.css" rel="stylesheet">
+
+<h3>{{ .Title }}</h3>
+
+{{ .Content }}
+
+<ul>
+    {{ range .Pages }}
+    <li>
+        <a href="{{ .Permalink }}">{{ .Title }}</a>
+        <span class="tags">
+        {{ range .Params.Tags }}
+            <span>{{ . }}</span>
+        {{ end }}
+        </span>
+    </li>
+    {{ end }}
+</ul>
