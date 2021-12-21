@@ -1,0 +1,18 @@
+<h3>{{ .Title }}</h3>
+
+<h4>Tags</h4>
+<ul>
+    {{ range .Params.Tags }}
+        <li>{{ . }}</li>
+    {{ end }}
+</ul>
+
+<h4>Ingredients</h4>
+<ul>
+    {{ range .Params.Ingredients }}
+        <li>{{ . }}</li>
+    {{ end }}
+</ul>
+
+<h4>Instructions</h4>
+{{ .Content }}
