@@ -18,6 +18,7 @@ ingredients:
   - 2 teaspoons ground cinnamon
   - 1 teaspoon ground cloves
   - 1 teaspoon salt
+source: https://www.gimmesomeoven.com/chewy-ginger-molasses-cookies/
 ---
 
 1. In a medium bowl, whisk together flour, soda, cinnamon, cloves, ginger and salt. Set aside.

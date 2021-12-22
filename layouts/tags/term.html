@@ -1,0 +1,11 @@
+<link href="/style.css" rel="stylesheet">
+
+<h3>Recipes Tagged with '{{ .Title }}'</h3>
+
+<ul>
+    {{ range .Pages }}
+        <li>
+            <a href="{{ .Permalink }}">{{ .Title }}</a>
+        </li>
+    {{ end }}
+</ul>
