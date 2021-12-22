@@ -1,4 +1,4 @@
-baseURL = 'https://mpoegel.github.io/recipes/'
+baseURL = 'poegel.kitchen'
 languageCode = 'en-us'
 title = 'Family Recipes'
 [taxonomies]
