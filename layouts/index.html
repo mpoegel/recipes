@@ -1,4 +1,4 @@
-<link href="{{ .Site.BaseURL }}/style.css" rel="stylesheet">
+{{ partial "header.html" }}
 
 <h3>{{ .Title }}</h3>
 
@@ -6,3 +6,5 @@
 <a href="tags/">Search Recipes By Tag</a>
 
 {{ .Content }}
+
+{{ partial "footer.html" }}

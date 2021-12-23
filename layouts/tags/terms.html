@@ -1,11 +1,13 @@
-<link href="{{ .Site.BaseURL }}/style.css" rel="stylesheet">
+{{ partial "header.html" }}
 
 <h3>{{ .Title }}</h3>
 
 <ul>
-    {{ range .Pages }}
+    {{ range .Pages.ByTitle }}
         <li>
             <a href="{{ .Permalink }}">{{ .Title }}</a>
         </li>
     {{ end }}
 </ul>
+
+{{ partial "footer.html" }}
