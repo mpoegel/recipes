@@ -1,5 +1,5 @@
-baseURL = 'https://poegel.kitchen'
+baseURL = 'https://recipes.oldno.name'
 languageCode = 'en-us'
-title = 'Family Recipes'
+title = 'Friends & Family Recipes'
 [taxonomies]
   tag = 'tags'
