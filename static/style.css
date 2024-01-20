@@ -4,6 +4,15 @@ body {
     font-family: 'Open Sans', sans-serif;
 }
 
+table td {
+    padding-left: 2px;
+    padding-right: 2px;
+}
+
+table tr td:nth-child(even) {
+    background-color: lightblue;
+}
+
 @media (width < 600px) {
     body {
         font-size: 1.2em;
