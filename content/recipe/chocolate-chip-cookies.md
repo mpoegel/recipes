@@ -5,16 +5,16 @@ draft: false
 tags:
   - cookie
 ingredients:
-  - 1 cup butter, softened
-  - 1 cup white sugar
-  - 1 cup packed brown sugar
+  - 226g (1 cup) butter, softened
+  - 210g (1 cup) white sugar
+  - 210g (1 cup) packed brown sugar
   - 2 eggs
   - 2 teaspoons vanilla extract
   - 1 teaspoon baking soda
   - 2 teaspoon hot water
   - 1/2 teaspoon salt
-  - 3 cups AP flour
-  - 2 cups chocolate chips
+  - 450g (3 cups) AP flour
+  - 1 bag (2 cups) chocolate chips
 source: https://www.allrecipes.com/recipe/10813/best-chocolate-chip-cookies/
 ---
 
