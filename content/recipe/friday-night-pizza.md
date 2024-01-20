@@ -4,6 +4,7 @@ date: 2021-12-27T15:04:49-05:00
 draft: false
 tags:
   - dinner
+  - pizza
 ingredients:
   - 25g starter
   - 25g whole wheat flour
